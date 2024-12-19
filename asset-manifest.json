@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f7b528c5.css",
+    "main.js": "/static/js/main.b06ec806.js",
+    "static/media/SpoqaHanSansNeo-Bold.woff2": "/static/media/SpoqaHanSansNeo-Bold.1db18034ccc384032a4a.woff2",
+    "static/media/SpoqaHanSansNeo-Regular.woff2": "/static/media/SpoqaHanSansNeo-Regular.452bf1579d6a73fbaffc.woff2",
+    "static/media/SpoqaHanSansNeo-Medium.woff2": "/static/media/SpoqaHanSansNeo-Medium.8589927a4fa35d637a8d.woff2",
+    "static/media/SpoqaHanSansNeo-Light.woff2": "/static/media/SpoqaHanSansNeo-Light.13ba65ce1663198528ba.woff2",
+    "static/media/SpoqaHanSansNeo-Thin.woff2": "/static/media/SpoqaHanSansNeo-Thin.9aab6330b7ba8adf7abf.woff2",
+    "index.html": "/index.html",
+    "main.f7b528c5.css.map": "/static/css/main.f7b528c5.css.map",
+    "main.b06ec806.js.map": "/static/js/main.b06ec806.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7b528c5.css",
+    "static/js/main.b06ec806.js"
+  ]
+}
